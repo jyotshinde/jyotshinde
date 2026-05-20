@@ -53,8 +53,21 @@ width="220"
 <p>
 📍 Pune, India
 </p>
-
+--- 
 <br>
+<h2>🌐 Connect With Me</h2>
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/jyotiram-shinde-a879673a6">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:jyotshinde@zohomail.in">
+<img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=minutemailer&logoColor=white"/>
+</a>
+
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=jyotshinde&label=Profile%20Views&color=0e75b6&style=flat" />
 
@@ -136,20 +149,6 @@ src="https://streak-stats.demolab.com?user=jyotshinde&theme=tokyonight&hide_bord
 </p>
 
 ---
-
-<h2>🌐 Connect With Me</h2>
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/jyotiram-shinde-a879673a6">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:jyotshinde@zohomail.in">
-<img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=minutemailer&logoColor=white"/>
-</a>
-
-</p>
 
 </td>
 </tr>
