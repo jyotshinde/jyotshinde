@@ -1,8 +1,16 @@
 <h1 align="center">Hi 👋, I'm Jyotiram</h1>
 
 <h3 align="center">
-DevOps & Cloud Engineer | AWS | Kubernetes | Docker | GitHub Actions | Jenkins | ArgoCD | Terraform 
+🚀 DevOps & Cloud Engineer
 </h3>
+
+<p align="center">
+AWS • Kubernetes • Docker • GitHub Actions • Jenkins • Terraform • ArgoCD
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+Automation+Engineer;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Terraform+%7C+Linux" />
+</p>
 
 ---
 
@@ -11,26 +19,25 @@ DevOps & Cloud Engineer | AWS | Kubernetes | Docker | GitHub Actions | Jenkins |
 
 <td width="35%" align="center" valign="top">
 
-<br>
 <img 
 src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" 
 width="220"
 />
 
-<br>
+<br><br>
 
 <h2>Jyotiram Shinde</h2>
 
 <p>
-💼 DevOps & Cloud Engineer
+💼 <b>DevOps & Cloud Engineer</b>
 </p>
 
 <p>
-☁️ AWS | Terraform | Git & GitHub Actions
+☁️ AWS | Terraform | GitHub Actions
 </p>
 
 <p>
-🐳 Linux | Docker | Kubernetes | Jenkins
+🐳 Docker | Kubernetes | Jenkins
 </p>
 
 <p>
@@ -38,34 +45,43 @@ width="220"
 </p>
 
 <p>
-🛠️ Jira | Confluence | ServiceNow | IBM BPM
+🛠️ Jira | Confluence | ServiceNow
 </p>
 
 <p>
 📍 Pune, India
 </p>
 
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=jyotshinde&label=Profile%20Views&color=0e75b6&style=flat" />
+
 </td>
 
 <td width="65%" valign="top">
 
-## 👨‍💻 About Me
+<h2>👨‍💻 About Me</h2>
 
-DevOps Engineer with 4.9 years of overall IT experience, including 3.2 years of hands-on experience in DevOps and 1.7 years in Production Support on IBM BPM applications. Skilled in AWS Cloud, Docker, Kubernetes, Jenkins, GitHub Actions, Terraform, Linux, and CI/CD automation. Passionate about Infrastructure Automation, Cloud Computing, and building scalable DevOps solutions. Experienced in deployment automation, monitoring, troubleshooting, and maintaining reliable production environments.
+<p>
+DevOps Engineer with <b>4.9 years</b> of overall IT experience, including <b>3.2 years</b> of hands-on experience in DevOps and <b>1.7 years</b> in Production Support on IBM BPM applications.
+</p>
 
-- 🚀 Expertise in CI/CD using GitHub Actions & Jenkins
-- ☁️ Strong experience with AWS Cloud Infrastructure
-- 🐳 Hands-on with Docker & Kubernetes
-- 🛠️ Skilled in Terraform & Infrastructure Automation
-- 📊 Monitoring using Prometheus & Grafana
-- 🔍 Experience in Production Support
+<p>
+Skilled in AWS Cloud, Docker, Kubernetes, Jenkins, GitHub Actions, Terraform, Linux, and CI/CD automation.
+</p>
+
+<ul>
+<li>🚀 Expertise in CI/CD using GitHub Actions & Jenkins</li>
+<li>☁️ Strong experience with AWS Cloud Infrastructure</li>
+<li>🐳 Hands-on with Docker & Kubernetes</li>
+<li>🛠️ Skilled in Terraform & Infrastructure Automation</li>
+<li>📊 Monitoring using Prometheus & Grafana</li>
+<li>🔍 Experience in Production Support</li>
+</ul>
 
 ---
 
-## 🛠️ DevOps & Cloud Tools
-
-<p>
-## 🚀 DevOps & Cloud Tools
+<h2>🛠️ DevOps & Cloud Tools</h2>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,terraform,git,github,linux,bash,vscode,docker,kubernetes,jenkins,grafana,prometheus,mysql" />
@@ -73,47 +89,56 @@ DevOps Engineer with 4.9 years of overall IT experience, including 3.2 years of 
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/githubactions" height="48"/>
-</p>
+  <img src="https://cdn.simpleicons.org/argocd" height="48"/>
+  <img src="https://cdn.simpleicons.org/confluence" height="48"/>
+  <img src="https://cdn.simpleicons.org/servicenow" height="48"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=jyotshinde&show_icons=true&theme=tokyonight" 
-    height="180"
-  />
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotshinde&layout=compact&theme=tokyonight" 
-    height="180"
-  />
+<img 
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=jyotshinde&show_icons=true&theme=tokyonight&hide_border=true"
+height="170"
+/>
+
+<img 
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jyotshinde&layout=compact&theme=tokyonight&hide_border=true"
+height="170"
+/>
+
 </p>
+
 ---
 
-## 🔥 GitHub Streak
+<h2>🔥 GitHub Streak</h2>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=jyotshinde&theme=tokyonight" />
+<img 
+src="https://streak-stats.demolab.com?user=jyotshinde&theme=tokyonight&hide_border=true" 
+/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+<h2>🌐 Connect With Me</h2>
 
-<p>
-<a href="www.linkedin.com/in/jyotiram-shinde-a879673a6">
+<p align="left">
+
+<a href="https://www.linkedin.com/in/jyotiram-shinde-a879673a6">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="mailto:jyotshinde@zohomail.in">
 <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=minutemailer&logoColor=white"/>
 </a>
-</a>
+
 </p>
 
 </td>
 </tr>
 </table>
+
