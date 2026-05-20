@@ -101,23 +101,11 @@ Skilled in AWS Cloud, Docker, Kubernetes, Jenkins, GitHub Actions, Terraform, Li
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,terraform,git,github,linux,bash,vscode,docker,kubernetes,jenkins,grafana,prometheus,mysql" />
 </p>
+
 <p align="left">
-
-<img 
-src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubactions.svg" 
-height="45"
-/>&nbsp;&nbsp;&nbsp;
-
-<img 
-src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/argo.svg" 
-height="45"
-/>&nbsp;&nbsp;&nbsp;
-
-<img 
-src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/confluence.svg" 
-height="45"
-/>&nbsp;&nbsp;&nbsp;
-
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubactions.svg" height="45" style="margin-right:20px;" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/argo.svg" height="45" style="margin-right:20px;" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/confluence.svg" height="45" style="margin-right:20px;" />
 </p>
 
 ---
