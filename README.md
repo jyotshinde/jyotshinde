@@ -8,19 +8,45 @@ DevOps & Cloud Engineer | AWS | Kubernetes | Docker | GitHub Actions | Jenkins |
 
 <table>
 <tr>
-<td width="35%">
 
-<img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="220"/>
+<td width="35%" align="center" valign="top">
 
-### Jyotiram Shinde
+<img 
+src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" 
+width="220"
+/>
 
-💼 DevOps & Cloud Engineer  
-☁️ AWS | Terraform | Git & GitHub Actions | Linux | Docker | Kubernetes | Jenkins | ArgoCD | Grafana | Prometheus | Jira | Confluence | ServiceNow | IBM BPM 
+<br><br>
+
+<h2>Jyotiram Shinde</h2>
+
+<p>
+💼 DevOps & Cloud Engineer
+</p>
+
+<p>
+☁️ AWS | Terraform | Git & GitHub Actions
+</p>
+
+<p>
+🐳 Linux | Docker | Kubernetes | Jenkins
+</p>
+
+<p>
+🚀 ArgoCD | Grafana | Prometheus
+</p>
+
+<p>
+🛠️ Jira | Confluence | ServiceNow | IBM BPM
+</p>
+
+<p>
 📍 Pune, India
+</p>
 
 </td>
 
-<td width="65%">
+<td width="65%" valign="top">
 
 ## 👨‍💻 About Me
 
@@ -41,7 +67,14 @@ DevOps Engineer with 4.9 years of overall IT experience, including 3.2 years of 
 ## 🚀 DevOps & Cloud Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,git,github,linux,bash,vscode,docker,kubernetes,jenkins,argocd,grafana,prometheus,jira,confluence,servicenow,sql" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform,git,github,linux,bash,vscode,docker,kubernetes,jenkins,grafana,prometheus,jira,mysql" />
+</p>
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/githubactions" height="48"/>
+  <img src="https://cdn.simpleicons.org/argocd" height="48"/>
+  <img src="https://cdn.simpleicons.org/confluence" height="48"/>
+  <img src="https://cdn.simpleicons.org/servicenow" height="48"/>
 </p>
 </p>
 
@@ -50,11 +83,16 @@ DevOps Engineer with 4.9 years of overall IT experience, including 3.2 years of 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jyotshinde&show_icons=true&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=jyotshinde&show_icons=true&theme=tokyonight" 
+    height="180"
+  />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotshinde&layout=compact&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotshinde&layout=compact&theme=tokyonight" 
+    height="180"
+  />
 </p>
-
 ---
 
 ## 🔥 GitHub Streak
