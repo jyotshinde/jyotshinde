@@ -10,7 +10,7 @@ AWS • Kubernetes • Docker • GitHub Actions • Jenkins • Terraform • A
 
 <p align="center">
 <img 
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=DevOps+Engineer;CICD+Automation;Terraform;Cloud+Automation+Engineer;AWS;Production+Support+Engineer;Docker+&+Kubernetes;GitHub+Actions+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Terraform+%7C+Linux" 
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF7F&center=true&vCenter=true&width=900&lines=DevOps+Engineer;Cloud+%26+Infrastructure+Automation;Building+Scalable+CI%2FCD+Pipelines;AWS+%7C+Kubernetes+%7C+Terraform;Automating+Everything+Possible" 
 />
 </p>
 
@@ -88,27 +88,23 @@ Skilled in AWS Cloud, Docker, Kubernetes, Jenkins, GitHub Actions, Terraform, Li
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,terraform,git,github,linux,bash,vscode,docker,kubernetes,jenkins,grafana,prometheus,mysql" />
 </p>
-
 <p align="left">
+
 <img 
 src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubactions.svg" 
 height="45"
-/>
+/>&nbsp;&nbsp;&nbsp;
 
 <img 
 src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/argo.svg" 
 height="45"
-/>
+/>&nbsp;&nbsp;&nbsp;
 
 <img 
 src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/confluence.svg" 
 height="45"
-/>
+/>&nbsp;&nbsp;&nbsp;
 
-<img 
-src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/servicenow.svg" 
-height="45"
-/>
 </p>
 
 ---
