@@ -68,14 +68,11 @@ DevOps Engineer with 4.9 years of overall IT experience, including 3.2 years of 
 ## 🚀 DevOps & Cloud Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,git,github,linux,bash,vscode,docker,kubernetes,jenkins,grafana,prometheus,jira,mysql" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform,git,github,linux,bash,vscode,docker,kubernetes,jenkins,grafana,prometheus,mysql" />
 </p>
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/githubactions" height="48"/>
-  <img src="https://cdn.simpleicons.org/argocd" height="48"/>
-  <img src="https://cdn.simpleicons.org/confluence" height="48"/>
-  <img src="https://cdn.simpleicons.org/servicenow" height="48"/>
 </p>
 </p>
 
