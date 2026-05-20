@@ -11,12 +11,13 @@ DevOps & Cloud Engineer | AWS | Kubernetes | Docker | GitHub Actions | Jenkins |
 
 <td width="35%" align="center" valign="top">
 
+<br>
 <img 
 src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" 
 width="220"
 />
 
-<br><br>
+<br>
 
 <h2>Jyotiram Shinde</h2>
 
