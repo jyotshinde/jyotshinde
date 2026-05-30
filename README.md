@@ -137,9 +137,6 @@ src="https://streak-stats.demolab.com?user=jyotshinde&theme=tokyonight&hide_bord
 </p>
 
 ---
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=jyotshinde)
-<br>
 ---
 
 </td>
