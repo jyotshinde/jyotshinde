@@ -123,11 +123,7 @@ height="170"
 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jyotshinde&layout=compact&theme=tokyonight&hide_border=true"
 height="170"
 />
-
 </p>
----
----
-
 </td>
 </tr>
 </table>
