@@ -125,17 +125,6 @@ height="170"
 />
 
 </p>
-
----
-
-<h2>🔥 GitHub Streak</h2>
-
-<p align="center">
-<img 
-src="https://streak-stats.demolab.com?user=jyotshinde&theme=tokyonight&hide_border=true" 
-/>
-</p>
-
 ---
 ---
 
