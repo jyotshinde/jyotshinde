@@ -78,7 +78,8 @@ width="220"
 <h2>👨‍💻 About Me</h2>
 
 <p>
-DevOps Engineer with <b>4.9 years</b> of overall IT experience, including <b>3.2 years</b> of hands-on experience in DevOps and <b>1.7 years</b> in Production Support on IBM BPM applications.
+DevOps & Cloud Engineer with 4.5+ years of experience in AWS, Kubernetes (EKS), Docker, GitHub Actions, ArgoCD, Terraform, and DevSecOps. Experienced in building CI/CD pipelines, implementing GitOps workflows, managing cloud infrastructure, and deploying containerized microservices. Skilled in SonarQube, Trivy, Prometheus, Grafana, Linux, and automation. Delivered 40% faster deployments for a healthcare insurance platform supporting 12+ microservices.
+
 </p>
 
 <p>
