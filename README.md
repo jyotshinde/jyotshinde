@@ -78,7 +78,7 @@ width="220"
 <h2>👨‍💻 About Me</h2>
 
 <p>
-DevOps & Cloud Engineer with 4.5+ years of experience in AWS, Kubernetes (EKS), Docker, GitHub Actions, ArgoCD, Terraform, and DevSecOps. Experienced in building CI/CD pipelines, implementing GitOps workflows, managing cloud infrastructure, and deploying containerized microservices. Skilled in SonarQube, Trivy, Prometheus, Grafana, Linux, and automation. Delivered 40% faster deployments for a healthcare insurance platform supporting 12+ microservices.
+DevOps Engineer with 4.9 + years of DevOps experience and 4.9 years of total IT experience, including expertise in AWS, Kubernetes EKS, GitHub Actions, ArgoCD, and Terraform. Specialized in building and managing cloud-native infra and CI/CD pipelines for healthcare-insurance-domain microservices. Improved deployment velocity by 40% by transforming manual release processes into fully automated CI/CD and GitOps workflows, reducing deployment failures by 40%. Implemented DevSecOps practices using SonarQube and Trivy, enhancing security compliance by 50%, while ensuring the reliability, scalability, and security of production-grade cloud environments supporting 12+ microservices. 
 
 </p>
 
